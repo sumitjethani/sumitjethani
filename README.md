@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=2DD4BF&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer;LLMs+%C2%B7+RAG+%C2%B7+Agentic+AI;Building+ASHEN+%E2%80%94+AI-Assisted+Pentesting" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=2DD4BF&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer;LLMs+%C2%B7+RAG+%C2%B7+Agentic+AI" alt="Typing SVG" />
 
 </div>
 
 # Hi, I'm Sumit 👋
 
-AI/ML Engineer fresh out of **FAST-NUCES**, building systems at the intersection of **LLMs, retrieval, generative models, and automation**. I like taking a model from a paper or a Colab notebook to something that actually runs, end to end.
+AI/ML Engineer, FAST-NUCES graduated, building systems at the intersection of **LLMs, retrieval, generative models, and automation**. I like taking a model from a paper or a Colab notebook to something that actually runs, end to end.
 
 ---
 
@@ -28,16 +28,55 @@ AI/ML Engineer fresh out of **FAST-NUCES**, building systems at the intersection
 
 ## 🧩 Featured Projects
 
-| Project | What it does | Stack |
-|---|---|---|
-| **ASHEN** *(team project)* | AI-assisted penetration testing platform guiding a user through `Scan → Vulnerabilities → Exploit → Results → Remediation`, powered by a local LLM orchestrating Nmap, Metasploit, and Hydra | LLaMA/Ollama, React |
-| **[Clinical RAG](https://github.com/sumitjethani/Clinical-Rag)** | Retrieval-augmented QA over clinical records | FAISS, Sentence-Transformers, LLM |
-| **[Document-to-Markdown](https://github.com/sumitjethani/Document-to-Markdown-Generation)** | VLM fine-tuned with QLoRA to convert documents into structured Markdown | VLM, QLoRA |
-| **[Voice Patient Registration Agent](https://github.com/sumitjethani/Voice-AI-Agent-For-Patient-Registration-System)** | Voice agent that registers patients over a call | Vapi, FastAPI |
-| **[Diffusion Image Generation](https://github.com/sumitjethani/Diffusion-Models-for-High-Resolution-Image-Generation-Reconstruction)** | Denoising diffusion model for high-res image generation/reconstruction | PyTorch |
-| **[Image Captioning](https://github.com/sumitjethani/image-captioning-system-)** | CNN encoder + attention decoder generating image captions | PyTorch, Seq2Seq, Attention |
-| **[Pseudocode → C++](https://github.com/sumitjethani/pseudo-to-c-code-with-gpt2-model)** | Fine-tuned GPT-2 that translates pseudocode into C++ | GPT-2, LoRA, Streamlit |
-| **[Self-Supervised MAE](https://github.com/sumitjethani/Self-Supervised-Learning-using-Masked-AutoEncoders)** | Masked autoencoder pretraining for self-supervised representation learning | PyTorch |
+| 🔐 **ASHEN** *(team project)* |
+|---|
+| An AI-assisted penetration testing platform that guides a user through a full security workflow — `Scan → Vulnerabilities → Exploit → Results → Remediation`. A local LLM (LLaMA via Ollama) orchestrates Nmap, Metasploit, and Hydra; every exploit action shown is scoped to the vulnerability currently selected, and remediation is linked directly back to its finding. |
+
+![LLaMA](https://img.shields.io/badge/LLaMA-000000?style=flat-square&logo=meta&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+---
+
+| 🩺 **[Clinical RAG](https://github.com/sumitjethani/Clinical-Rag)** |
+|---|
+| A retrieval-augmented QA system over clinical records — embeds documents into a vector store and grounds LLM answers in retrieved context rather than model memory. |
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-3776AB?style=flat-square&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+---
+
+| 📄 **[Document-to-Markdown](https://github.com/sumitjethani/Document-to-Markdown-Generation)** |
+|---|
+| A Vision Language Model fine-tuned with QLoRA to convert scanned/complex documents directly into structured Markdown. |
+
+![QLoRA](https://img.shields.io/badge/QLoRA-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+---
+
+| 🎙️ **[Voice Patient Registration Agent](https://github.com/sumitjethani/Voice-AI-Agent-For-Patient-Registration-System)** |
+|---|
+| A voice-based agent that registers patients end-to-end over a phone call, no forms involved. |
+
+![Vapi](https://img.shields.io/badge/Vapi-000000?style=flat-square&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+---
+
+| 🖼️ **[Diffusion Image Generation](https://github.com/sumitjethani/Diffusion-Models-for-High-Resolution-Image-Generation-Reconstruction)** | 📝 **[Pseudocode → C++](https://github.com/sumitjethani/pseudo-to-c-code-with-gpt2-model)** |
+|---|---|
+| A denoising diffusion model that generates and reconstructs high-resolution images by progressively removing noise. | A fine-tuned GPT-2 model (LoRA) that translates pseudocode into working C++, with a Streamlit interface. |
+| ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) | ![GPT--2](https://img.shields.io/badge/GPT--2-412991?style=flat-square&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
+
+---
+
+| 🐝 **[Image Captioning](https://github.com/sumitjethani/image-captioning-system-)** | 🧠 **[Self-Supervised MAE](https://github.com/sumitjethani/Self-Supervised-Learning-using-Masked-AutoEncoders)** |
+|---|---|
+| CNN encoder + attention decoder generating natural-language captions for images. | Masked autoencoder pretraining for self-supervised visual representation learning. |
+| ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) |
 
 *(GAN/image-translation experiments — DCGAN vs WGAN-GP, Pix2Pix, CycleGAN — are also up on my repos for anyone curious about generative work.)*
 
