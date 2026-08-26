@@ -165,16 +165,16 @@ AI/ML Engineer, FAST-NUCES graduated, building systems at the intersection of **
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sumitjethani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitjethani&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sumitjethani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitjethani&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sumitjethani&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://streak-stats.demolab.com?user=sumitjethani&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sumitjethani&theme=tokyonight&hide_border=true&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=sumitjethani&theme=tokyonight&hide_border=true&no-frame=true&row=1&column=6&margin-w=10" />
 </div>
 
 ---
