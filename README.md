@@ -165,12 +165,11 @@ AI/ML Engineer, FAST-NUCES graduated, building systems at the intersection of **
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sumitjethani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitjethani&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+<img src="https://github-stats-alpha.vercel.app/api?username=sumitjethani&cc=0d1117&tc=2DD4BF&ic=2DD4BF&bc=0d1117" height="150"/>
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=sumitjethani&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://streak-stats.demolab.com?user=sumitjethani&theme=tokyonight&hide_border=true&background=0d1117&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF" height="165"/>
 </div>
 
 <div align="center">
