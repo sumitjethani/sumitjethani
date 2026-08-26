@@ -1,14 +1,30 @@
-# Hi, I'm Sumit Jethani 👋
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=2DD4BF&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer;LLMs+%C2%B7+RAG+%C2%B7+Agentic+AI" alt="Typing SVG" />
 
 </div>
 
+# Hi, I'm Sumit Jethani 👋
 
+```bash
+sumit@github:~$ whoami
+Sumit Jethani — AI/ML Engineer | FAST-NUCES graduated
 
-AI/ML Engineer, FAST-NUCES graduated, building systems at the intersection of **LLMs, retrieval, generative models, and automation**. I like taking a model from a paper or a Colab notebook to something that actually runs, end to end.
+sumit@github:~$ cat interests.txt
+LLMs | RAG | Agentic AI | Computer Vision | NLP | AI Automation
+
+sumit@github:~$ ls projects/
+ASHEN/  Clinical-RAG/  Voice-Agent/  Diffusion-Models/  Document-to-Markdown/
+
+sumit@github:~$ cat stack.txt
+Python · PyTorch · Hugging Face · FAISS · FastAPI · n8n · Vapi · LLaMA
+
+sumit@github:~$ cat status.txt
+Building  → AI Job Application Automation Pipeline
+Open to   → AI Engineer / ML Engineer roles (Pakistan & Remote)
+
+sumit@github:~$ _
+```
 
 ---
 
