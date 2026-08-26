@@ -162,6 +162,18 @@ AI/ML Engineer, FAST-NUCES graduated, building systems at the intersection of **
 
 ---
 
+## 🐍 Contribution Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sumitjethani/sumitjethani/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sumitjethani/sumitjethani/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sumitjethani/sumitjethani/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -184,6 +196,10 @@ AI/ML Engineer, FAST-NUCES graduated, building systems at the intersection of **
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sumit-jethani)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/Sumit-Jethani)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@sumitjethani123)
+
+---
+
+[![MIT License](https://img.shields.io/badge/License-MIT-2DD4BF?style=flat-square)](https://opensource.org/licenses/MIT)
 
 ---
 
