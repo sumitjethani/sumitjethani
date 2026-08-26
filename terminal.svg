@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 380" width="720" height="380">
+  <defs>
+    <style>
+      .mono { font-family: 'Courier New', Courier, monospace; }
+      .prompt { fill: #2DD4BF; }
+      .cmd { fill: #e6edf3; }
+      .out-white { fill: #c9d1d9; }
+      .out-blue { fill: #79b8ff; }
+      .out-teal { fill: #2DD4BF; }
+      .out-muted { fill: #8b949e; }
+      .out-yellow { fill: #e3b341; }
+      .cursor {
+        fill: #2DD4BF;
+        animation: blink 1s step-end infinite;
+      }
+      @keyframes blink {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0; }
+      }
+    </style>
+  </defs>
+
+  <!-- Window background -->
+  <rect width="720" height="380" rx="12" ry="12" fill="#0d1117"/>
+
+  <!-- Title bar -->
+  <rect width="720" height="38" rx="12" ry="12" fill="#161b22"/>
+  <rect y="26" width="720" height="12" fill="#161b22"/>
+
+  <!-- Traffic lights -->
+  <circle cx="20" cy="19" r="6" fill="#ff5f57"/>
+  <circle cx="40" cy="19" r="6" fill="#febc2e"/>
+  <circle cx="60" cy="19" r="6" fill="#28c840"/>
+
+  <!-- Title -->
+  <text x="360" y="24" text-anchor="middle" font-size="12" fill="#8b949e" class="mono">sumit@github — bash</text>
+
+  <!-- Line 1: whoami command -->
+  <text x="24" y="72" font-size="13" class="mono prompt">sumit@github:~$</text>
+  <text x="162" y="72" font-size="13" class="mono cmd"> whoami</text>
+
+  <!-- Line 2: whoami output -->
+  <text x="24" y="94" font-size="13" class="mono out-blue">Sumit Jethani</text>
+  <text x="123" y="94" font-size="13" class="mono out-muted"> — </text>
+  <text x="147" y="94" font-size="13" class="mono out-white">AI/ML Engineer</text>
+  <text x="270" y="94" font-size="13" class="mono out-muted"> | </text>
+  <text x="290" y="94" font-size="13" class="mono out-teal">FAST-NUCES graduated</text>
+
+  <!-- Line 3: cat interests -->
+  <text x="24" y="126" font-size="13" class="mono prompt">sumit@github:~$</text>
+  <text x="162" y="126" font-size="13" class="mono cmd"> cat interests.txt</text>
+
+  <!-- Line 4: interests output -->
+  <text x="24" y="148" font-size="13" class="mono out-teal">LLMs</text>
+  <text x="62" y="148" font-size="13" class="mono out-muted"> | </text>
+  <text x="82" y="148" font-size="13" class="mono out-teal">RAG</text>
+  <text x="112" y="148" font-size="13" class="mono out-muted"> | </text>
+  <text x="132" y="148" font-size="13" class="mono out-teal">Agentic AI</text>
+  <text x="212" y="148" font-size="13" class="mono out-muted"> | </text>
+  <text x="232" y="148" font-size="13" class="mono out-teal">Computer Vision</text>
+  <text x="362" y="148" font-size="13" class="mono out-muted"> | </text>
+  <text x="382" y="148" font-size="13" class="mono out-teal">NLP</text>
+  <text x="412" y="148" font-size="13" class="mono out-muted"> | </text>
+  <text x="432" y="148" font-size="13" class="mono out-teal">AI Automation</text>
+
+  <!-- Line 5: ls projects -->
+  <text x="24" y="180" font-size="13" class="mono prompt">sumit@github:~$</text>
+  <text x="162" y="180" font-size="13" class="mono cmd"> ls projects/</text>
+
+  <!-- Line 6: projects output -->
+  <text x="24" y="202" font-size="13" class="mono out-blue">ASHEN/</text>
+  <text x="86" y="202" font-size="13" class="mono out-blue">  Clinical-RAG/</text>
+  <text x="206" y="202" font-size="13" class="mono out-blue">  Voice-Agent/</text>
+  <text x="322" y="202" font-size="13" class="mono out-blue">  Diffusion-Models/</text>
+  <text x="468" y="202" font-size="13" class="mono out-blue">  Document-to-Markdown/</text>
+
+  <!-- Line 7: cat stack -->
+  <text x="24" y="234" font-size="13" class="mono prompt">sumit@github:~$</text>
+  <text x="162" y="234" font-size="13" class="mono cmd"> cat stack.txt</text>
+
+  <!-- Line 8: stack output -->
+  <text x="24" y="256" font-size="13" class="mono out-yellow">Python</text>
+  <text x="76" y="256" font-size="13" class="mono out-muted"> · </text>
+  <text x="96" y="256" font-size="13" class="mono out-yellow">PyTorch</text>
+  <text x="158" y="256" font-size="13" class="mono out-muted"> · </text>
+  <text x="178" y="256" font-size="13" class="mono out-yellow">Hugging Face</text>
+  <text x="278" y="256" font-size="13" class="mono out-muted"> · </text>
+  <text x="298" y="256" font-size="13" class="mono out-yellow">FAISS</text>
+  <text x="346" y="256" font-size="13" class="mono out-muted"> · </text>
+  <text x="366" y="256" font-size="13" class="mono out-yellow">FastAPI</text>
+  <text x="422" y="256" font-size="13" class="mono out-muted"> · </text>
+  <text x="442" y="256" font-size="13" class="mono out-yellow">n8n</text>
+  <text x="472" y="256" font-size="13" class="mono out-muted"> · </text>
+  <text x="492" y="256" font-size="13" class="mono out-yellow">Vapi</text>
+  <text x="524" y="256" font-size="13" class="mono out-muted"> · </text>
+  <text x="544" y="256" font-size="13" class="mono out-yellow">LLaMA</text>
+
+  <!-- Line 9: cat status -->
+  <text x="24" y="288" font-size="13" class="mono prompt">sumit@github:~$</text>
+  <text x="162" y="288" font-size="13" class="mono cmd"> cat status.txt</text>
+
+  <!-- Line 10: status output -->
+  <text x="24" y="310" font-size="13" class="mono out-muted">Building  </text>
+  <text x="100" y="310" font-size="13" class="mono out-teal">→</text>
+  <text x="116" y="310" font-size="13" class="mono out-white"> AI Job Application Automation Pipeline</text>
+
+  <text x="24" y="330" font-size="13" class="mono out-muted">Open to   </text>
+  <text x="100" y="330" font-size="13" class="mono out-teal">→</text>
+  <text x="116" y="330" font-size="13" class="mono out-white"> AI Engineer / ML Engineer roles </text>
+  <text x="404" y="330" font-size="13" class="mono out-teal">(Pakistan + Remote)</text>
+
+  <!-- Line 11: final prompt with cursor -->
+  <text x="24" y="360" font-size="13" class="mono prompt">sumit@github:~$</text>
+  <rect x="163" y="348" width="8" height="14" class="cursor"/>
+</svg>
